@@ -19,5 +19,23 @@ let booleanisloggedin=Boolean(isloggedin)
 //"hitesh"==true
 let somenumber=33;
 let stringnumber=String(somenumber);
-console.log(stringnumber);
-console.log(typeof stringnumber)
+//console.log(stringnumber);
+//console.log(typeof stringnumber)
+
+
+
+
+
+//             operations         
+    let value=3
+    let negativevalue= -value
+    console.log(negativevalue)
+    console.log("1"+2);//12
+    console.log(1+"2");//12
+    console.log("1"+2+2);//122
+    console.log(1+2+"2");//32
+    console.log(+true);//1
+    console.log(+"");//0
+
+
+    
