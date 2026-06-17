@@ -1,7 +1,7 @@
-let score="hitesh"
+//let score="hitesh"
 //console.log(typeof score);
 //console.log(typeof(score));
-let valueinnumber=Number(score)
+//let valueinnumber=Number(score)
 //console.log(typeof valueinnumber);
 //console.log(valueinnumber);
 
@@ -11,14 +11,14 @@ let valueinnumber=Number(score)
 //"33"==33
 // "33abc"==NaN
 // true==1;false==0
-let isloggedin="hitesh"
-let booleanisloggedin=Boolean(isloggedin)
+//let isloggedin="hitesh"
+//let booleanisloggedin=Boolean(isloggedin)
 //console.log(booleanisloggedin);
 //1==true;0==false
 //""==false
 //"hitesh"==true
-let somenumber=33;
-let stringnumber=String(somenumber);
+//let somenumber=33;
+//let stringnumber=String(somenumber);
 //console.log(stringnumber);
 //console.log(typeof stringnumber)
 
@@ -27,15 +27,8 @@ let stringnumber=String(somenumber);
 
 
 //             operations         
-    let value=3
-    let negativevalue= -value
-    console.log(negativevalue)
-    console.log("1"+2);//12
-    console.log(1+"2");//12
-    console.log("1"+2+2);//122
-    console.log(1+2+"2");//32
-    console.log(+true);//1
-    console.log(+"");//0
-
+   // let value=3
+   // let negativevalue= -value
+   
 
     
